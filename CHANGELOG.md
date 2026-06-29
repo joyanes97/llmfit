@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.9.35](https://github.com/AlexsJones/llmfit/compare/v0.9.34...v0.9.35) (2026-06-29)
+
+
+### Bug Fixes
+
+* reset list cursor to top when the search query changes ([5e4dc7b](https://github.com/AlexsJones/llmfit/commit/5e4dc7b1e578c5a2366a8f7b94220d68178e2fae))
+* reset list cursor to top when the search query changes ([43884f5](https://github.com/AlexsJones/llmfit/commit/43884f500a9b392b03bc2d2bc539ba6430d954fd)), closes [#657](https://github.com/AlexsJones/llmfit/issues/657)
+
 ## [0.9.34](https://github.com/AlexsJones/llmfit/compare/v0.9.33...v0.9.34) (2026-06-28)
 
 
